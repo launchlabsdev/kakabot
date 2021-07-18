@@ -16,5 +16,8 @@
   "devDependencies": {
     "eslint": "^5.2.0",
     "eslint-config-google": "^0.9.1"
+  },
+  "dependencies": {
+    "firebase": "^8.7.1"
   }
 }
